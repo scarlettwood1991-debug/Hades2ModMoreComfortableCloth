@@ -1,0 +1,14 @@
+{
+  "namespace": "SW_ZY",
+  "name": "more_comfortable_cloth",
+  "description": "Generated Hades II portrait replacement package.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Hell2Modding-Hell2Modding-1.0.73",
+    "LuaENVY-ENVY-1.2.0",
+    "SGG_Modding-ModUtil-4.0.0",
+    "SGG_Modding-SJSON-1.0.0"
+  ],
+  "website_url": "",
+  "FullName": "SW_ZY-more_comfortable_cloth"
+}

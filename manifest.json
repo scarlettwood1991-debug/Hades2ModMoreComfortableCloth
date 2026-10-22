@@ -1,0 +1,12 @@
+{
+    "name": "more_comfortable_cloth",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Replaces portraits for Melinoe, Hera, Nemesis, Artemis, Eris, and Medea with more comfortable pants, including bath portraits.",
+    "dependencies": [
+        "Hell2Modding-Hell2Modding-1.0.73",
+        "LuaENVY-ENVY-1.2.0",
+        "SGG_Modding-ModUtil-4.0.0",
+        "SGG_Modding-SJSON-1.0.0"
+    ]
+}
