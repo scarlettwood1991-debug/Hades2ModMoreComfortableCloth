@@ -1,4 +1,4 @@
-# Comfortable Outfits / 女角色舒适衣装立绘替换
+# More Comfortable cloth / 女角色更舒适的服装立绘替换
 
 This mod replaces the character portraits for several female characters in *Hades II*, giving them more comfortable, practical pants and outfits. The goal is to make the attire more suitable for combat and allow players to focus better on the characters' facial expressions and the story.
 
